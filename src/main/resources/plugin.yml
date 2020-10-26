@@ -1,0 +1,5 @@
+name: Antiboom
+version: @version@
+main: kinggeert.antiboom.Antiboom
+api-version: 1.16
+authors: [ kinggeert ]
